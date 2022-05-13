@@ -1,0 +1,14 @@
+9/14/2021
+- First attempts at the physics and forces at play
+
+10/05/2021
+- Physics mostly work, orbits are now circular and not square anymore
+- Added trails to better visualize the planet's paths
+
+11/01/2021
+- Added center of mass (CM) acceleration ability
+- Touched up the physics again
+
+5/13/2022
+- Polished the inputs and display
+- Removed a few print statements from previous troubleshooting
